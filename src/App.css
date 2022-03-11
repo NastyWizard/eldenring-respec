@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -19,13 +20,37 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  height: 6px;
 }
 
 .App-link {
   color: #61dafb;
+}
+
+.stat {
+  display: flex;
+  flex-direction: row;
+  font-size: calc(6px + 2vmin);
+  align-items: center;
+  gap: 10px;
+  height: 5vh;
+  margin: 0px 10px 0px 10px;
+}
+
+.input-style {
+  background-color: #4b7e73;
+  color: white;
+  border-radius: 5px;
+  border-color: #000000;
+  flex-grow: 2;
+}
+
+.stat-box {
+  background-color: #1a1d29;
+  border-radius: 5px;
+  
 }
 
 @keyframes App-logo-spin {
