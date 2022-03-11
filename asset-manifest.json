@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eldenring-respec/static/css/main.252b7a6a.css",
+    "main.js": "/eldenring-respec/static/js/main.986df281.js",
+    "static/js/787.93f3773f.chunk.js": "/eldenring-respec/static/js/787.93f3773f.chunk.js",
+    "index.html": "/eldenring-respec/index.html",
+    "main.252b7a6a.css.map": "/eldenring-respec/static/css/main.252b7a6a.css.map",
+    "main.986df281.js.map": "/eldenring-respec/static/js/main.986df281.js.map",
+    "787.93f3773f.chunk.js.map": "/eldenring-respec/static/js/787.93f3773f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.252b7a6a.css",
+    "static/js/main.986df281.js"
+  ]
+}
